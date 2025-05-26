@@ -623,8 +623,7 @@ updateOutput = function() {
               p.textContent = `Das Kind zahlt ${euroCount} Euro${euroCount > 1 ? "s" : ""}.`;
               output.appendChild(p);
             }
-          }
         }
-      }
-    }
+    });
+    
   
