@@ -624,6 +624,6 @@ updateOutput = function() {
               output.appendChild(p);
             }
         }
-    });
+    }
     
   
